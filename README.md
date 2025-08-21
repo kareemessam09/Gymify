@@ -69,7 +69,26 @@ Gymify transforms raw fitness intent into structured, trackable progress. It ble
 - Session Tracker (sets, reps, completion)
 - Settings (theme, metrics update)
 
-*(Insert visuals once captured: `/docs/images/`)*
+<table>
+  <tr>
+    <td><img src="docs/images/onboarding_metrics.png" alt="Onboarding/Metrics Input" width="200"></td>
+    <td><img src="docs/images/home_dashboard.png" alt="Home Dashboard" width="200"></td>
+    <td><img src="docs/images/exercise_library.png" alt="Exercise Library" width="200"></td>
+    <td><img src="docs/images/exercise_detail.png" alt="Exercise Detail" width="200"></td>
+    <td><img src="docs/images/plan_overview.png" alt="Plan Overview" width="200"></td>
+    <td><img src="docs/images/session_tracker.png" alt="Session Tracker" width="200"></td>
+    <td><img src="docs/images/settings.png" alt="Settings" width="200"></td>
+  </tr>
+  <tr>
+    <td align="center">Onboarding/Metrics Input</td>
+    <td align="center">Home Dashboard</td>
+    <td align="center">Exercise Library</td>
+    <td align="center">Exercise Detail</td>
+    <td align="center">Plan Overview</td>
+    <td align="center">Session Tracker</td>
+    <td align="center">Settings</td>
+  </tr>
+</table>
 
 ## ⚙ Setup & Installation
 1. Clone repo
