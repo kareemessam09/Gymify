@@ -2,8 +2,24 @@
 
 Elevate your fitness journey with **Gymify** — a modern Android app that delivers personalized workout plans, intelligent exercise guidance, and seamless offline readiness. Built natively with Kotlin and architected for performance, scalability, and a delightful user experience.
 
-## ✨ Core Value Proposition
-Gymify transforms raw fitness intent into structured, trackable progress. It blends smart data (BMI, goals, experience) with curated exercise libraries and adaptive plans, all wrapped in a clean, fast mobile experience.
+
+## 📱 Screens
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/kareemessam09/Gymify/master/gymify.png" alt="Gymify Home" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/kareemessam09/Gymify/master/gymmmmm.png" alt="Gymify Exercises" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/kareemessam09/Gymify/master/profile.png" alt="Profile" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/kareemessam09/Gymify/master/chatt.png" alt="Chat Interface" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/kareemessam09/Gymify/master/chatrespo.png" alt="Chat Response" width="200"></td>
+  </tr>
+  <tr>
+    <td align="center">Gymify Home</td>
+    <td align="center">Gymify Exercises</td>
+    <td align="center">Profile</td>
+    <td align="center">Chat Interface</td>
+    <td align="center">Chat Response</td>
+  </tr>
+</table>
 
 ## 🚀 Feature Highlights
 - Personalized onboarding (height, weight, BMI auto-computed via DataStore persistence)
@@ -59,30 +75,6 @@ Gymify transforms raw fitness intent into structured, trackable progress. It ble
 - Attempt remote fetch (suspend Retrofit call)
 - On failure or offline: fallback to Room cached entity set
 - Minimal blocking; responses transformed to UI models before emission
-
-## 📱 Screens (Planned/Existing)
-- Onboarding/Metrics input
-- Home Dashboard (BMI, today plan, quick actions)
-- Exercise Library (filter, search, pagination)
-- Exercise Detail (media, instructions)
-- Plan Overview (cycle/week structure)
-- Session Tracker (sets, reps, completion)
-- Settings (theme, metrics update)
-
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/kareemessam09/Gymify/master/gymify.png" alt="Gymify Home" width="200"></td>
-    <td><img src="https://raw.githubusercontent.com/kareemessam09/Gymify/master/gymmmmm.png" alt="Gymify Exercises" width="200"></td>
-    <td><img src="https://raw.githubusercontent.com/kareemessam09/Gymify/master/planedit.png" alt="Plan Edit" width="200"></td>
-    <td><img src="https://raw.githubusercontent.com/kareemessam09/Gymify/master/profile.png" alt="Profile" width="200"></td>
-  </tr>
-  <tr>
-    <td align="center">Gymify Home</td>
-    <td align="center">Gymify Exercises</td>
-    <td align="center">Plan Edit</td>
-    <td align="center">Profile</td>
-  </tr>
-</table>
 
 ## ⚙ Setup & Installation
 1. Clone repo
