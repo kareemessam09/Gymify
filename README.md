@@ -71,22 +71,16 @@ Gymify transforms raw fitness intent into structured, trackable progress. It ble
 
 <table>
   <tr>
-    <td><img src="docs/images/onboarding_metrics.png" alt="Onboarding/Metrics Input" width="200"></td>
-    <td><img src="docs/images/home_dashboard.png" alt="Home Dashboard" width="200"></td>
-    <td><img src="docs/images/exercise_library.png" alt="Exercise Library" width="200"></td>
-    <td><img src="docs/images/exercise_detail.png" alt="Exercise Detail" width="200"></td>
-    <td><img src="docs/images/plan_overview.png" alt="Plan Overview" width="200"></td>
-    <td><img src="docs/images/session_tracker.png" alt="Session Tracker" width="200"></td>
-    <td><img src="docs/images/settings.png" alt="Settings" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/kareemessam09/Gymify/master/gymify.png" alt="Gymify Home" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/kareemessam09/Gymify/master/gymmmmm.png" alt="Gymify Exercises" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/kareemessam09/Gymify/master/planedit.png" alt="Plan Edit" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/kareemessam09/Gymify/master/profile.png" alt="Profile" width="200"></td>
   </tr>
   <tr>
-    <td align="center">Onboarding/Metrics Input</td>
-    <td align="center">Home Dashboard</td>
-    <td align="center">Exercise Library</td>
-    <td align="center">Exercise Detail</td>
-    <td align="center">Plan Overview</td>
-    <td align="center">Session Tracker</td>
-    <td align="center">Settings</td>
+    <td align="center">Gymify Home</td>
+    <td align="center">Gymify Exercises</td>
+    <td align="center">Plan Edit</td>
+    <td align="center">Profile</td>
   </tr>
 </table>
 
